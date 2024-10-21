@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a pleasant background color and font */
+body {
+  background-color: #f0f4f8;
+  font-family: 'Comic Sans MS', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center;    /* Vertically center */
+  padding: 20px;
+}
