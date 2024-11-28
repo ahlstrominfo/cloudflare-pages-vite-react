@@ -25,7 +25,7 @@ function Home() {
   return (
     <>
 
-      <p className="the-backend-message">
+      <p className="the-backend-message text-3xl">
         This message comes from Cloudflare Pages Functions, i.e. the backend.:
         <br/>
         <b>{message}</b>
